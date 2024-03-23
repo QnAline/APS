@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521759709916",
+    "project_id": "sendnotify-27b42",
+    "storage_bucket": "sendnotify-27b42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521759709916:android:346a80954e43bb43217219",
+        "android_client_info": {
+          "package_name": "com.aline_test.APS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF7bkLp2NpN5e7Oh7YawXsHGrmH7OQMGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

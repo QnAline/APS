@@ -1,0 +1,123 @@
+{
+  "accidents": [
+    {
+      "id": "1",
+      "latitude": 37.78825,
+      "longitude": -122.4324,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "hazard",
+      "hazardLevel": "high",
+      "date": "2022-02-15T12:30:00Z"
+    },
+    {
+      "id": "2",
+      "latitude": 37.79825,
+      "longitude": -122.4424,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "modulate",
+      "hazardLevel": "moderate",
+      "date": "2023-03-15T12:30:00Z"
+    },
+    {
+      "id": "3",
+      "latitude": 37.77825,
+      "longitude": -122.4224,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "low",
+      "hazardLevel": "low",
+      "date": "2012-06-15T12:30:00Z"
+    },
+    {
+      "id": "4",
+      "latitude": 37.788,
+      "longitude": -122.432,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "hazard",
+      "hazardLevel": "high",
+      "date": "2017-06-15T12:30:00Z"
+    },
+    {
+      "id": "5",
+      "latitude": 37.798,
+      "longitude": -122.442,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "modulate",
+      "hazardLevel": "moderate",
+      "date": "2019-06-15T16:30:00Z"
+    },
+    {
+      "id": "6",
+      "latitude": 37.778,
+      "longitude": -122.422,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "low",
+      "hazardLevel": "low",
+      "date": "2002-06-15T12:30:00Z"
+    },
+    {
+      "id": "7",
+      "latitude": 37.787,
+      "longitude": -122.431,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "hazard",
+      "hazardLevel": "high",
+      "date": "2009-06-5T12:30:00Z"
+    },
+    {
+      "id": "8",
+      "latitude": 37.797,
+      "longitude": -122.441,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "modulate",
+      "hazardLevel": "moderate",
+      "date": "2014-06-5T12:30:00Z"
+    },
+    {
+      "id": "9",
+      "latitude": 37.777,
+      "longitude": -122.421,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "low",
+      "hazardLevel": "low",
+      "date": "2011-06-5T12:30:00Z"
+    },
+    {
+      "type": "A",
+      "location": "Airport",
+      "date": "2024-01-30",
+      "description": "Plane crash during takeoff at the airport.",
+      "severity": "Catastrophic",
+      "casuality": "Fatalities reported",
+      "id": "10"
+    },
+    {
+      "id": "11",
+      "latitude": 37.796,
+      "longitude": -122.44,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "modulate",
+      "hazardLevel": "moderate",
+      "date": "2014-06-5T12:30:00Z"
+    },
+    {
+      "id": "12",
+      "latitude": 37.776,
+      "longitude": -122.42,
+      "latitudeDelta": 0.0922,
+      "longitudeDelta": 0.0421,
+      "type": "low",
+      "hazardLevel": "low",
+      "date": "2014-06-5T12:30:00Z"
+    }
+  ]
+}
