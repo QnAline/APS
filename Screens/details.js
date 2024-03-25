@@ -7,7 +7,7 @@ const Details = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('http://172.31.135.90:3000/accidents');
+        const response = await fetch('http://172.31.135.90\:3000/accidents');
         const data = await response.json();
 
         // Check if 'accidents' array is not empty before setting state
